@@ -7,7 +7,7 @@ A full-stack web application that serves as an AI-powered assistant for develope
 
 ## 🚀 Project Preview
 
-![Web Based Editor Screenshot](./assets/ss.png.)
+![Web Based Editor Screenshot](./assets/ss.png)
 
 ---
 
